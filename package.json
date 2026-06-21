@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@react-google-maps/api": "^2.20.8",
-    "brain.js": "^2.0.0-beta.24",
+    "brain.js": "^1.6.1",
     "chart.js": "^4.5.1",
     "next": "14.2.35",
     "papaparse": "^5.5.3",
